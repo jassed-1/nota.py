@@ -1,7 +1,7 @@
 Nota.py 
 ================
 
-um programa que calcula a media de uma escola 
+    Um programa que calcula a media de uma escola 
 
 
 ----
@@ -9,7 +9,7 @@ um programa que calcula a media de uma escola
 Executar
 ----------
 
-Efetuar a Execuçao do código-fonte:
+Efetuar a execução do código-fonte:
 
 
         $ python3 nota.py
@@ -20,7 +20,8 @@ Efetuar a Execuçao do código-fonte:
 Uso 
 ---
 
-calcula a media de uma escola 
+    Calcula a media de uma escola
+
 ----
 
 Exemplos
@@ -31,4 +32,4 @@ Exemplos
        3 bimestre:2
        4 bimestre:2
     
-        voce reprovou
+       vocâ reprovou
